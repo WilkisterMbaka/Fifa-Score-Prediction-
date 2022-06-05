@@ -20,4 +20,4 @@ Project was created with:
 * Pandas, Numpy and Matplotlib libraries
 
 ## **Dataset**
-* Mchezopesa Ltd Dataset and Glossary [Link]([http://bit.ly/VariableDefinitions](https://drive.google.com/open?id=1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc))
+* Mchezopesa Ltd Dataset and Glossary [Link](https://drive.google.com/open?id=1BYUqaEEnFtAe5lvzJh9lpVpR2MAvERUc)
